@@ -1,0 +1,5 @@
+C:\Users\Harun\Desktop\dummyDataCreater\bin\Debug\net7.0\publish\dummyDataCreater.exe
+C:\Users\Harun\Desktop\dummyDataCreater\bin\Debug\net7.0\publish\dummyDataCreater.dll
+C:\Users\Harun\Desktop\dummyDataCreater\bin\Debug\net7.0\publish\dummyDataCreater.deps.json
+C:\Users\Harun\Desktop\dummyDataCreater\bin\Debug\net7.0\publish\dummyDataCreater.runtimeconfig.json
+C:\Users\Harun\Desktop\dummyDataCreater\bin\Debug\net7.0\publish\dummyDataCreater.pdb
